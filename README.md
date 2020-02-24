@@ -17,13 +17,13 @@ expo start
 
 ### Example
 
-![first](front-react native/src/1.jpeg)
+![first](1.jpeg)
 
-![second](front-react native/src/2.jpeg)
+![second](2.jpeg)
 
-![third](front-react native/src/3.jpeg)
+![third](3.jpeg)
 
-![four](front-react native/src/4.jpeg)
+![four](4.jpeg)
 
 
 ## Built With
