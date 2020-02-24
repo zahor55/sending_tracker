@@ -33,11 +33,11 @@ expo start
 * [Expo](https://expo.io/) - Expo is an open-source platform for making universal native apps for Android, iOS
 
 
-#Back with api
+# Back with api
 
 server that handle request to send tracking details to costumers
 
-##Installing
+## Installing
 
 need to configure consts.js file with store details
 ```
@@ -47,7 +47,7 @@ npm install
 node start
 ```
 
-##api
+## api
 ```
 #send with tracking number
 https://trackebay.herokuapp.com/num/${trackNum}/${mail}/${clientName}/{const.id}
