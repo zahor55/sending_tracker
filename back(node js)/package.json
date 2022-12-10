@@ -9,7 +9,7 @@
   "author": "zahor and omri",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "file-reader": "^1.1.1",
     "mongoose": "^5.4.19",
     "nodemailer": "^6.3.0",
